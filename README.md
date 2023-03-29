@@ -1,4 +1,4 @@
-# DiodeTemp
+# LEDTemp
 Teploměr podle teploty rozsvěcí světýlka. Obvod podle obrázku.
 19° = 1 LEDka
 21° = 2 LEDky
